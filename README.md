@@ -1,5 +1,3 @@
-# Github_Projet_Train_Sons
-
 Gestion de sons sur une maquette de trains.
 
 Programmes Arduino:V1,V2,V3,V4,V5,V6

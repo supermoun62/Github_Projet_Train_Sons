@@ -14,3 +14,5 @@ Kicad_Gerber_Projet_Train_Sons
 Kicad_PDF_Projet_Train_Sons
 
 Le fichier Kicad_PDF_Projet_Train_Sons.pdf contient le détail du projet.
+
+Schema Projet_Trains_Sons: https://github.com/supermoun62/Github_Projet_Train_Sons/blob/main/Schema_Projet_Train_Sons.jpeg

@@ -15,4 +15,8 @@ Kicad_PDF_Projet_Train_Sons
 
 Le fichier Kicad_PDF_Projet_Train_Sons.pdf contient le détail du projet.
 
-Schema Projet_Trains_Sons: https://github.com/supermoun62/Github_Projet_Train_Sons/blob/main/Schema_Projet_Train_Sons.jpeg
+Schéma Projet_Trains_Sons: https://github.com/supermoun62/Github_Projet_Train_Sons/blob/main/Schema_Projet_Train_Sons.jpeg
+
+PCB Projet_Trains_Sons: https://github.com/supermoun62/Github_Projet_Train_Sons/blob/main/PCB_Projet_Trains_Sons.jpeg
+
+Tracé Projet_Trains_Sons: https://github.com/supermoun62/Github_Projet_Train_Sons/blob/main/PCB_Trace_Trains_Sons.jpeg
